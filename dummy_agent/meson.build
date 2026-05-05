@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: Apache-2.0
+# SPDX-License-Identifier: MIT
 # Copyright (C) 2026 Interpretica Unipessoal Lda
 #
 # External TE agent type (see TE_EXT_REPO): a minimal Test Agent
